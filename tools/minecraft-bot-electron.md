@@ -4,6 +4,8 @@ description: An MC BOT attacker built with electron!
 
 # ▶ Minecraft Bot Electron
 
+Did you know that this document is open source? [GitHub](https://github.com/Ghalbeyou/ghalbeyou-docs)
+
 ## About
 
 An MC BOT attacker built with electron!

@@ -4,7 +4,9 @@ description: A python compiler written in c++ for windows
 
 # ▶ Python Compiler
 
-## About
+Did you know that this document is open source? [GitHub](https://github.com/Ghalbeyou/ghalbeyou-docs)
+
+## 'About
 
 A python compiler written in c++ for windows
 

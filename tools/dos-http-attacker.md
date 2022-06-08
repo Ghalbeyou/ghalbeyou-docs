@@ -4,6 +4,8 @@ description: A Http Easy Dos Attack Tool
 
 # ▶ Dos HTTP attacker
 
+Did you know that this document is open source? [GitHub](https://github.com/Ghalbeyou/ghalbeyou-docs)
+
 ## About
 
 this is python app to dos to https/http site ONLY

@@ -4,6 +4,8 @@ description: A new hash npm package
 
 # ▶ Hash The File
 
+Did you know that this document is open source? [GitHub](https://github.com/Ghalbeyou/ghalbeyou-docs)
+
 ## About
 
 &#x20;A easy but simple file hasher for programmers

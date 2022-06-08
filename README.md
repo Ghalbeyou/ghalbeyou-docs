@@ -16,10 +16,8 @@ some projects that i made:
 
 {% embed url="https://github.com/ghalbeyou/mc-bot-electron" %}
 
-I made more than one or two tools, you can check them in my [**GitHub** ](https://github.com/Ghalbeyou/)!
+I made more than one or two tools, you can check them in my [**GitHub** ](https://github.com/Ghalbeyou/)!D
 
 {% hint style="success" %}
-Do you know we try our best to make bests?
+Did you know that this document is open source? [GitHub](https://github.com/Ghalbeyou/ghalbeyou-docs)
 {% endhint %}
-
-We are making new tools for new persons to use them. we try to make things a lot easy.
