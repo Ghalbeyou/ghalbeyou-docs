@@ -12,7 +12,8 @@
 * [▶ Python Compiler](tools/python-compiler.md)
 * [▶ Dos HTTP attacker](tools/dos-http-attacker.md)
 * [▶ Minecraft Bot Electron](tools/minecraft-bot-electron.md)
+* [▶ Batch Maker](tools/batch-maker.md)
 
 ## 🔌 Minecraft Plugins
 
-* [➡ GhalbeSecurity](minecraft-plugins/ghalbesecurity.md)
+* [▶ GhalbeSecurity](minecraft-plugins/ghalbesecurity.md)
