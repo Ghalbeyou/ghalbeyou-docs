@@ -51,3 +51,7 @@ so first, with clicking on "new project +" to create new project, enter the proj
 {% hint style="danger" %}
 Please notice that this app is in alpha and its not good to built big apps with it!
 {% endhint %}
+
+Project:
+
+{% embed url="https://github.com/ghalbeyou/batch-maker" %}

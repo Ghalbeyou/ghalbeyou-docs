@@ -13,6 +13,7 @@
 * [▶ Dos HTTP attacker](tools/dos-http-attacker.md)
 * [▶ Minecraft Bot Electron](tools/minecraft-bot-electron.md)
 * [▶ Batch Maker](tools/batch-maker.md)
+* [▶ ReadMe Generator](tools/readme-generator.md)
 
 ## 🔌 Minecraft Plugins
 
