@@ -19,6 +19,7 @@
 
 * [▶ Paster](web-sites/paster.md)
 * [▶ Open Chat](web-sites/open-chat.md)
+* [▶ Post Manager](web-sites/post-manager.md)
 
 ## 🔌 Minecraft Plugins
 
