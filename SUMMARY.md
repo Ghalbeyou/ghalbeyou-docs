@@ -15,6 +15,11 @@
 * [▶ Batch Maker](tools/batch-maker.md)
 * [▶ ReadMe Generator](tools/readme-generator.md)
 
+## 🌐 Web sites
+
+* [▶ Paster](web-sites/paster.md)
+* [▶ Open Chat](web-sites/open-chat.md)
+
 ## 🔌 Minecraft Plugins
 
 * [▶ GhalbeSecurity](minecraft-plugins/ghalbesecurity.md)
