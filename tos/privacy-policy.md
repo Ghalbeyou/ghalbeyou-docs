@@ -6,7 +6,7 @@ description: Privacy and policy
 
 ## Privacy Policy of Ghalbeyou
 
-Ghalbeyou operates the Website Name website, which provides the SERVICE.
+Ghalbeyou operates the ghalbeyou website, which provides the SERVICE.
 
 This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the Ghalbeyou.Ir website.
 
