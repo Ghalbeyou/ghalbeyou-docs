@@ -24,3 +24,7 @@
 ## 🔌 Minecraft Plugins
 
 * [▶ GhalbeSecurity](minecraft-plugins/ghalbesecurity.md)
+
+## 📘 Terms and services <a href="#tos" id="tos"></a>
+
+* [💡 Privacy Policy](tos/privacy-policy.md)
