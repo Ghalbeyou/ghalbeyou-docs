@@ -10,7 +10,7 @@ Open Chat is chat application but its not realtime and only uses python to conne
 
 The server is written in `python` using `flask`. default port is `8300`. aslo, there is a client!
 
-the server is protected and don't accept empty messages and empty usernames or illegial characters.
+The server is protected and don't accept empty messages and empty usernames or illegial characters.
 
 The server response `json` and it will save the messages to `messages.json` . This app is `Alpha` and its not for production deployment.
 
@@ -22,7 +22,7 @@ We first do clone the **GitHub**&#x20;
 $ gh repo clone Ghalbeyou/Open-Chat
 ```
 
-Then we need to install the dependencies.
+Then, we need to install the dependencies.
 
 ```bash
 $ pip install -r requirements.txt

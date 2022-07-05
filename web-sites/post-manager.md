@@ -28,11 +28,11 @@ After that, you can now :clap:(clap) for yourself, because the install was succe
 
 ### Usage
 
-just run `python3 server.py` in terminal and you can see the server is running. to go to the website, just open your browser and type `http://localhost:{post that you selected in cofig.json}/`
+Just run `python3 server.py` in terminal and you can see the server is running. to go to the website, just open your browser and type `http://localhost:{post that you selected in config.json}/`
 
 ### Config
 
-Unlike other projects, we got config here! yes its right :tada:
+Unlike other projects, we got config here! Yes its right :tada:
 
 So, we got a `config.json` file. There is a default settings:
 
@@ -43,7 +43,7 @@ So, we got a `config.json` file. There is a default settings:
 }
 ```
 
-its simple and easy.
+It's simple and easy.
 
 * Port: This is port of program (default: 8080)
 * Debug: this is for if the program is debuging or its on a public server

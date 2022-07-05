@@ -4,7 +4,7 @@ description: A new hash npm package
 
 # ▶ Hash The File
 
-Did you know that this document is open source? [GitHub](https://github.com/Ghalbeyou/ghalbeyou-docs)
+
 
 ## About
 
@@ -12,7 +12,7 @@ Did you know that this document is open source? [GitHub](https://github.com/Ghal
 
 ## Install
 
-to install this package, on your project type this command on the **terminal** :tada:****
+To install this package, on your project type this command on the **terminal** :tada:****
 
 {% hint style="info" %}
 Thanks for 200 Downloads!
@@ -32,7 +32,7 @@ A lot pepole install this package globally, but thats wrong! don't install it gl
 
 ## Usage
 
-To create hash of a file (SHA256) in nodejs index.js file, we need to first import hashthefile package and the usage of the pacakge
+To create hash of a file (SHA256) in nodejs index.js file, we need to first import hashthefile package and the usage of the package
 
 ```javascript
 const filehasher = require('hashthefile');
@@ -50,7 +50,7 @@ const filehasher = require('hashthefile');
 console.log(filehasher.gettextMD5("text"));//168726dbe96b3ce427e7fedce31bb0bc
 ```
 
-Simple as that! now you know how to use this!
+Simple as that! Now you know how to use this!
 
 {% hint style="danger" %}
 Cannot use emoji or external characters!

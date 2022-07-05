@@ -4,7 +4,7 @@ description: A logger npm package
 
 # ▶ Log it right now Dude
 
-Did you know that this document is open source? [GitHub](https://github.com/Ghalbeyou/ghalbeyou-docs)
+
 
 ## About
 
@@ -22,7 +22,7 @@ $ npm i logitrightnowdude
 {% endtab %}
 {% endtabs %}
 
-and there we go! now it should install package called "logitrightnowdude".
+and there we go! Now it should install package called "logitrightnowdude".
 
 ## Usage
 
