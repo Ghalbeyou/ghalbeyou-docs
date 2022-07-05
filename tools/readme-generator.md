@@ -6,12 +6,9 @@ description: >-
 
 # ▶ ReadMe Generator
 
-
-
 ## About
 
-ReadMeGenerator is python application and with that you can create ReadMe.md files!\
-
+ReadMeGenerator is python application and with that you can create ReadMe.md files!
 
 ### Install
 
@@ -37,13 +34,11 @@ So if you understand, this make a new file named as everything you enter on `out
 
 ## How Does it works?
 
-Just like other **READMEGENERATORS** , this app uses a themplate and edit it for the user, when the edit was done, it will write it to the `out name`.md and closes itself. Now here is a example of that:&#x20;
+Just like other **READMEGENERATORS** , this app uses a themplate and edit it for the user, when the edit was done, it will write it to the `out name`.md and closes itself. Now here is a example of that:
 
 {% embed url="https://raw.githubusercontent.com/Ghalbeyou/ReadMeGenerator/main/README.md" %}
 
 and it's cool, isn't it?
-
-
 
 Project:
 

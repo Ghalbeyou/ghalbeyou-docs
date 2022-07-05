@@ -14,12 +14,23 @@
 * [▶ Minecraft Bot Electron](tools/minecraft-bot-electron.md)
 * [▶ Batch Maker](tools/batch-maker.md)
 * [▶ ReadMe Generator](tools/readme-generator.md)
+* [▶ Winoptimizer](tools/winoptimizer.md)
+* [▶ DoxTool](tools/doxtool.md)
 
 ## 🌐 Web sites
 
 * [▶ Paster](web-sites/paster.md)
 * [▶ Open Chat](web-sites/open-chat.md)
 * [▶ Post Manager](web-sites/post-manager.md)
+
+## 💦 More
+
+* [🦤 About](more/about.md)
+* [💥Exploits](more/exploits/README.md)
+  * [💥Crash With JS](more/exploits/crash-with-js.md)
+  * [💥Slider Revolution exploit](more/exploits/slider-revolution-exploit.md)
+* [🤖 Discord Bots](more/discord-bots/README.md)
+  * [▶ Mr Hero](more/discord-bots/mr-hero.md)
 
 ## 🔌 Minecraft Plugins
 
