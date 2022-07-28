@@ -10,8 +10,8 @@ About this program This program remove the "bloatware" in your computer and this
 
 ### How it works?
 
-Its just simply removes some files and registry's for making your windws faster!
+It's just simply removes some files and registry's for making your windows faster!
 
 ### Is it free?
 
-Yes of course! its free on github.
+Yes of course! It's free on github.

@@ -16,6 +16,7 @@
 * [▶ ReadMe Generator](tools/readme-generator.md)
 * [▶ Winoptimizer](tools/winoptimizer.md)
 * [▶ DoxTool](tools/doxtool.md)
+* [▶ FakeBSOD](tools/fakebsod.md)
 
 ## 🌐 Web sites
 
